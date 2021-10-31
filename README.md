@@ -2,6 +2,11 @@
 - 👀 I’m interested in code
 
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xiefenga&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiefenga&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
+
 [![xiefeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiefenga&layout=compact&hide_border=true&hide_title=true&show_icons=true&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
 
 
