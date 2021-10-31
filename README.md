@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @xiefeng
 - 👀 I’m interested in code
 
+
+[![xiefeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiefenga)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![xiefeng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=xiefenga&layout=compact&hide_border=true&langs_count=10)
 
 <!---
