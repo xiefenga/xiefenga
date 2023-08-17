@@ -2,8 +2,6 @@
 
 I’m xiefeng, a front-end engineer
 
-<img src="https://activity-graph.herokuapp.com/graph?username=xiefenga&theme=xcode" />
-
 
 <p align="left">
 
