@@ -1,4 +1,4 @@
-# 👋 Hi there 
+### 👋 Hi there, I'm xiefeng
 
 👨‍💻 Frontend Developer · 🚀 Full-Stack Engineer · 🤖 AI Agent Builder
 
@@ -8,11 +8,16 @@
 - Full-stack system design  
 - LLM-powered applications & AI Agents  
 
+#### 🛠 Tech Stack
+
+<img height="20" title="typescript" src="https://api.iconify.design/logos-typescript-icon.svg">&nbsp;&nbsp;
+<img height="20" title="vite" src="https://api.iconify.design/logos-vitejs.svg">&nbsp;&nbsp;
+<img height="20" title="nodejs" src="https://api.iconify.design/logos-nodejs-icon.svg">&nbsp;&nbsp;
+<img height="20" title="react" src="https://api.iconify.design/logos-react.svg">&nbsp;&nbsp;
+<img height="20" title="tailwindcss" style="transform: scale(2);" src="https://api.iconify.design/devicon:tailwindcss.svg">&nbsp;&nbsp;
+<img height="20" title="nextjs" src="https://api.iconify.design/devicon:nextjs.svg">&nbsp;&nbsp;
+<img height="20" title="python" src="https://api.iconify.design/logos:python.svg">&nbsp;&nbsp;
+<img height="20" title="fastapi" src="https://api.iconify.design/logos:fastapi-icon.svg">&nbsp;&nbsp;
+
+
 🌐 Website: [https://0x1461a0.cc](https://www.0x1461a0.cc/) 
-
-  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiefenga&layout=compact&hide_border=true&langs_count=10" />
-  <img width="70%" src="https://raw.githubusercontent.com/xiefenga/xiefenga/main/profile-summary-card-output/nord_bright/0-profile-details.svg" />
-
-
-
-
